@@ -3,10 +3,10 @@ channels:
   - https://repo.mamba.pm/emscripten-forge
   - conda-forge
 dependencies:
-  - xeus-python=0.13.9
-  - notebook
-  - ipywidgets>=7.6
-  - jupyterlab=3
-  - itkwidgets
-  - matplotlib
-  - ipympl
+  - python=3.11
+  - xeus-python
+  - ipycanvas
+  - smt
+  - gemseo
+  - gemseo-mlearning
+  
