@@ -7,3 +7,4 @@ dependencies:
   - xeus-python
   - ipycanvas
   - numpy
+  - smt
